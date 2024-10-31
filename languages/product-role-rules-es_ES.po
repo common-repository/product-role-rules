@@ -1,0 +1,400 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Role Based Pricing for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-20 06:11+0000\n"
+"PO-Revision-Date: 2024-02-27 08:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.3\n"
+"X-Domain: product-role-rules"
+
+#: includes/class/admin/class-prolersettings.php:157
+#, php-format
+msgid "%1$s cannot be created."
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:154
+#, php-format
+msgid "%1$s role created successfully."
+msgstr ""
+
+#: templates/admin/sidebar.php:13
+msgid "Activate PRO"
+msgstr ""
+"\n"
+"Activar PRO"
+
+#: templates/admin/sidebar.php:11
+msgid "Activate PRO Now"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:468
+msgid "Add"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:439
+msgid "Add New"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:200
+#: includes/class/admin/class-prolersettings.php:369
+#: includes/class/admin/class-prolersettings.php:467
+msgid "Add New Role"
+msgstr "Agregar nuevo rol"
+
+#: includes/class/admin/class-prolersettings.php:199
+msgid "Add new user role"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:559
+msgid ""
+"Adjust the product's price by entering a percentage or flat rate reduction."
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:761
+msgid "All roles"
+msgstr ""
+
+#: includes/class/admin/class-prolerloader.php:357
+msgid "Already Did"
+msgstr ""
+
+#: includes/class/admin/class-prolerloader.php:358
+#: includes/class/admin/class-prolerloader.php:394
+msgid "Cancel"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:760
+msgid "Choose a role"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:661
+msgid "Choose Custom to overwrite the global pricing settings."
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:333
+msgid "Create New User Role"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:478
+msgid "Current role names"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:651
+msgid "Custom"
+msgstr ""
+
+#: templates/admin/sidebar.php:42
+msgid "Dedicated Support Team"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:652
+msgid "Disable"
+msgstr ""
+
+#: includes/core-data.php:24
+msgid "Disable role pricing"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:557
+#: includes/class/admin/class-prolersettings.php:712
+msgid "Discount"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:572
+msgid "Discount Text"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:574
+msgid "Display discount amount right next to price."
+msgstr ""
+
+#: includes/class/admin/class-prolerloader.php:149
+msgid "Docs"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:300
+msgid "Documentation"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"EASY to use and super FAST WooCommerce product role based pricing solution "
+"to add different prices for different roles."
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:454
+msgid "Example: 'B2B Customer'"
+msgstr ""
+
+#: includes/class/admin/class-prolerloader.php:349
+#, php-format
+msgid ""
+"Excellent! You've been using %1$s for a while. We'd appreciate if you kindly "
+"rate us on %2$s."
+msgstr ""
+
+#: templates/admin/sidebar.php:6 templates/admin/sidebar.php:12
+msgid "Get maximum/minimum quantity support with PRO"
+msgstr ""
+
+#: includes/class/admin/class-prolerloader.php:387
+msgid "Get maximum/minimum quantity support with PRO."
+msgstr ""
+
+#: templates/admin/sidebar.php:16
+msgid "Get our exclusive PRO Support 24/7 only for you."
+msgstr ""
+
+#: templates/admin/popup.php:7 templates/admin/sidebar.php:7
+#: includes/class/admin/class-prolerloader.php:127
+#: includes/class/admin/class-prolerloader.php:392
+#: includes/class/admin/class-prolersettings.php:209
+#: includes/class/admin/class-prolersettings.php:380
+msgid "Get PRO"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:650
+msgid "Global"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:330
+msgid "Global Role Based Settings"
+msgstr ""
+
+#: includes/core-data.php:22
+msgid "Global settings"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:702
+msgid "HIDDEN"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:581
+#: includes/class/admin/class-prolersettings.php:599
+msgid "Hide"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:589
+msgid "Hide Price"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:591
+msgid "Hide the price and display a custom placeholder text instead."
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:460
+msgid ""
+"IMPORTANT: Role name starts with letters and accepts letters, digits, spaces "
+"and '_' only."
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:626
+msgid ""
+"Limit the maximum number of products a customer can purchase for a specific "
+"role."
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:726
+msgid "Max Qty"
+msgstr ""
+
+#: templates/admin/popup.php:10
+msgid "Maximum & minimum quantity fields available in PRO"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:624
+msgid "Maximum Quantity"
+msgstr ""
+
+#: templates/admin/sidebar.php:31
+msgid ""
+"Maximum Quantity: Set an upper limit on the number of items a customer can "
+"purchase for a specific product."
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:719
+msgid "Min Qty"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:610
+#: includes/class/admin/class-prolersettings.php:616
+#: includes/class/admin/class-prolersettings.php:630
+msgid "Minimum Quantity"
+msgstr ""
+
+#: templates/admin/sidebar.php:34
+msgid ""
+"Minimum Quantity:s Establish a minimum number of items that a customer must "
+"purchase for a specific product."
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:526
+msgid "Off"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:526
+msgid "On"
+msgstr ""
+
+#: templates/admin/sidebar.php:43
+msgid ""
+"Our support is what makes us No.1. We are available round the clock for any "
+"support."
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:595
+msgid "Placeholder text"
+msgstr ""
+
+#: includes/class/admin/class-prolerloader.php:316
+#, php-format
+msgid "Please install and activate %1$s first"
+msgstr ""
+
+#: templates/admin/popup.php:6
+msgid "Please upgrade to PRO to use"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:702
+msgid "Price"
+msgstr ""
+
+#: includes/class/admin/class-prolerloader.php:383
+#: includes/class/admin/class-prolersettings.php:608
+#: includes/class/admin/class-prolersettings.php:622
+msgid "PRO"
+msgstr ""
+
+#: templates/admin/sidebar.php:15
+msgid "PRO License Activated"
+msgstr ""
+
+#: includes/core-data.php:23
+msgid "Product based"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:232
+msgid "Product Role Based Settings"
+msgstr ""
+
+#: includes/core-data.php:41
+msgid "Product Role Rules"
+msgstr ""
+
+#: includes/class/admin/class-prolerloader.php:356
+msgid "Rate it"
+msgstr ""
+
+#: templates/admin/sidebar.php:37
+msgid ""
+"Rocket speed support: Most of our customer's problem solved within 24 hours "
+"of their first contact."
+msgstr ""
+
+#: includes/core-data.php:26 includes/class/admin/class-prolersettings.php:216
+#: includes/class/admin/class-prolersettings.php:660
+msgid "Role Based Pricing"
+msgstr ""
+
+#. Name of the plugin
+#: includes/class/admin/class-prolersettings.php:297
+msgid "Role Based Pricing for WooCommerce"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:179
+#: includes/class/admin/class-prolersettings.php:191
+msgid "Role Pricing"
+msgstr ""
+
+#: includes/class/class-prolerplugin.php:342
+#: includes/class/admin/class-prolersettings.php:406
+msgid "Save"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:405
+msgid "Save Settings"
+msgstr ""
+
+#: templates/admin/sidebar.php:44
+msgid "Send Request"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:612
+msgid ""
+"Set the minimum number of products a customer must purchase for a specific "
+"role."
+msgstr ""
+
+#: includes/class/admin/class-prolerloader.php:124
+#: includes/class/admin/class-prolersettings.php:361
+msgid "Settings"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:274
+msgid "Settings Saved"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:792
+msgid "Settings saved successfully."
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:581
+#: includes/class/admin/class-prolersettings.php:599
+msgid "Show"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:145
+#, php-format
+msgid "Sorry, cannot add %1$s role, already exists."
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:135
+msgid ""
+"Sorry, role name must start with a letter and only include letters, digits, "
+"spaces, and underscores, and be at least 3 characters long."
+msgstr ""
+
+#: includes/class/admin/class-prolerloader.php:150
+#: includes/class/admin/class-prolersettings.php:303
+msgid "Support"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:531
+msgid "The following options are currently deactivated."
+msgstr ""
+
+#: includes/core-data.php:20
+msgid "Unregistered user"
+msgstr ""
+
+#: templates/admin/sidebar.php:5
+msgid "Upgrade to PRO Now"
+msgstr ""
+
+#. Author of the plugin
+msgid "WebFix Lab"
+msgstr ""
+
+#: includes/class/admin/class-prolerloader.php:311
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:178
+msgid "WooCommerce Role"
+msgstr ""
+
+#: includes/class/admin/class-prolersettings.php:190
+msgid "WooCommerce Role - Settings"
+msgstr ""
+
+#: includes/class/admin/class-prolerloader.php:340
+msgid "WordPress.org"
+msgstr ""

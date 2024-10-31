@@ -1,0 +1,409 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Role Based Pricing for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-20 06:11+0000\n"
+"PO-Revision-Date: 2024-02-20 08:16+0000\n"
+"Last-Translator: \n"
+"Language-Team: বাংলা\n"
+"Language: bn_BD\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.3\n"
+"X-Domain: product-role-rules"
+
+#: includes/class/admin/class-prolersettings.php:157
+#, php-format
+msgid "%1$s cannot be created."
+msgstr "%1$s তৈরি করা যাচ্ছে না।"
+
+#: includes/class/admin/class-prolersettings.php:154
+#, php-format
+msgid "%1$s role created successfully."
+msgstr "%1$s রোল তৈরী করা হয়েছে সফলভাবে।"
+
+#: templates/admin/sidebar.php:13
+msgid "Activate PRO"
+msgstr "PRO সক্রিয় করুন"
+
+#: templates/admin/sidebar.php:11
+msgid "Activate PRO Now"
+msgstr "এখনই PRO সক্রিয় করুন"
+
+#: includes/class/admin/class-prolersettings.php:468
+msgid "Add"
+msgstr "যোগ"
+
+#: includes/class/admin/class-prolersettings.php:439
+msgid "Add New"
+msgstr "নতুন যোগ"
+
+#: includes/class/admin/class-prolersettings.php:200
+#: includes/class/admin/class-prolersettings.php:369
+#: includes/class/admin/class-prolersettings.php:467
+msgid "Add New Role"
+msgstr "রোল যোগ করুণ"
+
+#: includes/class/admin/class-prolersettings.php:199
+msgid "Add new user role"
+msgstr "নতুন গ্রাহক রোল যোগ করুণ"
+
+#: includes/class/admin/class-prolersettings.php:559
+msgid ""
+"Adjust the product's price by entering a percentage or flat rate reduction."
+msgstr "শতাংশ বা ফ্ল্যাট রেট ঠিক করে পণ্যের মূল্য সামঞ্জস্য করুন।"
+
+#: includes/class/admin/class-prolersettings.php:761
+msgid "All roles"
+msgstr "সব রোল"
+
+#: includes/class/admin/class-prolerloader.php:357
+msgid "Already Did"
+msgstr "করা হয়েছে"
+
+#: includes/class/admin/class-prolerloader.php:358
+#: includes/class/admin/class-prolerloader.php:394
+msgid "Cancel"
+msgstr "বাতিল"
+
+#: includes/class/admin/class-prolersettings.php:760
+msgid "Choose a role"
+msgstr "রোল বাতিল করুণ"
+
+#: includes/class/admin/class-prolersettings.php:661
+msgid "Choose Custom to overwrite the global pricing settings."
+msgstr "সার্বিক মূল্য নির্ধারণের সেটিংস ওভাররাইট করতে কাস্টম নির্বাচন করুন।"
+
+#: includes/class/admin/class-prolersettings.php:333
+msgid "Create New User Role"
+msgstr "নতুন গ্রাহক রোল তৈরী করুণ"
+
+#: includes/class/admin/class-prolersettings.php:478
+msgid "Current role names"
+msgstr "বর্তমান রোলের নাম"
+
+#: includes/class/admin/class-prolersettings.php:651
+msgid "Custom"
+msgstr "কাস্টম"
+
+#: templates/admin/sidebar.php:42
+msgid "Dedicated Support Team"
+msgstr "সবসময় নিয়োজিত সেবা"
+
+#: includes/class/admin/class-prolersettings.php:652
+msgid "Disable"
+msgstr "বরখাস্ত"
+
+#: includes/core-data.php:24
+msgid "Disable role pricing"
+msgstr "রোলের দাম বাতিল করুণ"
+
+#: includes/class/admin/class-prolersettings.php:557
+#: includes/class/admin/class-prolersettings.php:712
+msgid "Discount"
+msgstr "মূল্যছাড়"
+
+#: includes/class/admin/class-prolersettings.php:572
+msgid "Discount Text"
+msgstr "মুল্যছাড়ের বক্তব্য"
+
+#: includes/class/admin/class-prolersettings.php:574
+msgid "Display discount amount right next to price."
+msgstr "পণ্যের দামের সাথে মূল্যছাড় দেখান"
+
+#: includes/class/admin/class-prolerloader.php:149
+msgid "Docs"
+msgstr "ব্যবহারবীধি"
+
+#: includes/class/admin/class-prolersettings.php:300
+msgid "Documentation"
+msgstr "ব্যবহারবীধি"
+
+#. Description of the plugin
+msgid ""
+"EASY to use and super FAST WooCommerce product role based pricing solution "
+"to add different prices for different roles."
+msgstr ""
+"ব্যবহার করা সহজ এবং দ্রুত WooCommerce পণ্যের রোল ভিত্তিক দাম নির্ধারনে ভিন্ন "
+"ভূমিকার জন্য বিভিন্ন দাম যোগ করার জন্য।"
+
+#: includes/class/admin/class-prolersettings.php:454
+msgid "Example: 'B2B Customer'"
+msgstr "উদাহরনঃ 'ব্যবসায়ীক গ্রাহক'"
+
+#: includes/class/admin/class-prolerloader.php:349
+#, php-format
+msgid ""
+"Excellent! You've been using %1$s for a while. We'd appreciate if you kindly "
+"rate us on %2$s."
+msgstr ""
+"অসাধারন। আপনি বেশ কিছুদিন আমাদের %1$s ব্যবহার করছেন। আমরা আন্তরিকভাবে আশা "
+"করব %2$s এখানে আপনার ভোট পেলে।"
+
+#: templates/admin/sidebar.php:6 templates/admin/sidebar.php:12
+msgid "Get maximum/minimum quantity support with PRO"
+msgstr "পন্যের ক্রয়সীমা নির্ধারণের সেবা পেতে PRO নিন"
+
+#: includes/class/admin/class-prolerloader.php:387
+msgid "Get maximum/minimum quantity support with PRO."
+msgstr "পন্যের ক্রয়সীমা নির্ধারণের সেবা পেতে PRO নিন"
+
+#: templates/admin/sidebar.php:16
+msgid "Get our exclusive PRO Support 24/7 only for you."
+msgstr "শুধুমাত্র PRO তে ২৪ ঘন্টা সেবা চালু"
+
+#: templates/admin/popup.php:7 templates/admin/sidebar.php:7
+#: includes/class/admin/class-prolerloader.php:127
+#: includes/class/admin/class-prolerloader.php:392
+#: includes/class/admin/class-prolersettings.php:209
+#: includes/class/admin/class-prolersettings.php:380
+msgid "Get PRO"
+msgstr "PRO নিন"
+
+#: includes/class/admin/class-prolersettings.php:650
+msgid "Global"
+msgstr "সার্বিক"
+
+#: includes/class/admin/class-prolersettings.php:330
+msgid "Global Role Based Settings"
+msgstr "সার্বিক রোল ভিত্তিক সেটিংস"
+
+#: includes/core-data.php:22
+msgid "Global settings"
+msgstr "সার্বিক সেটিংস"
+
+#: includes/class/admin/class-prolersettings.php:702
+msgid "HIDDEN"
+msgstr "লুকানো"
+
+#: includes/class/admin/class-prolersettings.php:581
+#: includes/class/admin/class-prolersettings.php:599
+msgid "Hide"
+msgstr "লুকান"
+
+#: includes/class/admin/class-prolersettings.php:589
+msgid "Hide Price"
+msgstr "দাম লুকান"
+
+#: includes/class/admin/class-prolersettings.php:591
+msgid "Hide the price and display a custom placeholder text instead."
+msgstr "পণ্যের দাম লুকিয়ে বক্তব্য দেখান"
+
+#: includes/class/admin/class-prolersettings.php:460
+msgid ""
+"IMPORTANT: Role name starts with letters and accepts letters, digits, spaces "
+"and '_' only."
+msgstr ""
+"গুরুত্বপূর্নঃ রোলের নাম বর্ণ দিয়ে শুরু এবং শুধুমাত্র বর্ণ, সংখ্যা, স্পেস ও "
+"'_' থাকতে পারবে।"
+
+#: includes/class/admin/class-prolersettings.php:626
+msgid ""
+"Limit the maximum number of products a customer can purchase for a specific "
+"role."
+msgstr "ক্রেতার পন্য নির্ধারণে সর্বনিম্ন ও সর্বচ্চো মাত্রা নির্ধারণ করুণ।"
+
+#: includes/class/admin/class-prolersettings.php:726
+msgid "Max Qty"
+msgstr "সর্বচ্চো"
+
+#: templates/admin/popup.php:10
+msgid "Maximum & minimum quantity fields available in PRO"
+msgstr "ক্রয় ক্ষমতা নির্ধারণ শুধু PRO তে"
+
+#: includes/class/admin/class-prolersettings.php:624
+msgid "Maximum Quantity"
+msgstr "সর্বচ্চো পরিমাণ"
+
+#: templates/admin/sidebar.php:31
+msgid ""
+"Maximum Quantity: Set an upper limit on the number of items a customer can "
+"purchase for a specific product."
+msgstr ""
+"সর্বচ্চো পরিমানঃ নির্দিষ্ট পণ্য ক্রয়ক্ষমতার সর্বচ্চো সীমা নির্ধারণ করুণ।"
+
+#: includes/class/admin/class-prolersettings.php:719
+msgid "Min Qty"
+msgstr "সর্বনিম্ন"
+
+#: includes/class/admin/class-prolersettings.php:610
+#: includes/class/admin/class-prolersettings.php:616
+#: includes/class/admin/class-prolersettings.php:630
+msgid "Minimum Quantity"
+msgstr "সর্বনিম্ন পরিমাণ"
+
+#: templates/admin/sidebar.php:34
+msgid ""
+"Minimum Quantity:s Establish a minimum number of items that a customer must "
+"purchase for a specific product."
+msgstr ""
+"সর্বনিম্ন পরিমাণঃ নির্দিষ্ট পণ্য ক্রয়ক্ষমতার সর্বনিম্ন সীমা নির্ধারণ করুণ।"
+
+#: includes/class/admin/class-prolersettings.php:526
+msgid "Off"
+msgstr "বন্ধ"
+
+#: includes/class/admin/class-prolersettings.php:526
+msgid "On"
+msgstr "চালু"
+
+#: templates/admin/sidebar.php:43
+msgid ""
+"Our support is what makes us No.1. We are available round the clock for any "
+"support."
+msgstr "আমাদের সেবাই আমাদেরকে অন্য সবার থেকে এগিয়ে রেখেছে।"
+
+#: includes/class/admin/class-prolersettings.php:595
+msgid "Placeholder text"
+msgstr "বক্তব্য"
+
+# %1
+#: includes/class/admin/class-prolerloader.php:316
+#, php-format
+msgid "Please install and activate %1$s first"
+msgstr "অনুগ্রহ করে এই প্লাগিন চালু করুণ %1$s আগে।"
+
+#: templates/admin/popup.php:6
+msgid "Please upgrade to PRO to use"
+msgstr "অনুগ্রহ করে PRO প্লাগিন ব্যবহার করুণ আগে"
+
+#: includes/class/admin/class-prolersettings.php:702
+msgid "Price"
+msgstr "দাম"
+
+#: includes/class/admin/class-prolerloader.php:383
+#: includes/class/admin/class-prolersettings.php:608
+#: includes/class/admin/class-prolersettings.php:622
+msgid "PRO"
+msgstr "PRO"
+
+#: templates/admin/sidebar.php:15
+msgid "PRO License Activated"
+msgstr "লাইসেন্স চালু হয়েছে"
+
+#: includes/core-data.php:23
+msgid "Product based"
+msgstr "পন্য নির্ভশীলতা"
+
+#: includes/class/admin/class-prolersettings.php:232
+msgid "Product Role Based Settings"
+msgstr "পণ্যের রোল ভিত্তিক সেটিংস"
+
+#: includes/core-data.php:41
+msgid "Product Role Rules"
+msgstr "পণ্যের রোল ভিত্তিক নিয়মনীতি"
+
+#: includes/class/admin/class-prolerloader.php:356
+msgid "Rate it"
+msgstr "মূল্যায়ন করুণ"
+
+#: templates/admin/sidebar.php:37
+msgid ""
+"Rocket speed support: Most of our customer's problem solved within 24 hours "
+"of their first contact."
+msgstr "দুর্দান্ত গতির সেবাঃ সর্বচ্চো এক দিনেই সমস্যার সমাধান।"
+
+#: includes/core-data.php:26 includes/class/admin/class-prolersettings.php:216
+#: includes/class/admin/class-prolersettings.php:660
+msgid "Role Based Pricing"
+msgstr "রোল ভিত্তিক দাম"
+
+#. Name of the plugin
+#: includes/class/admin/class-prolersettings.php:297
+msgid "Role Based Pricing for WooCommerce"
+msgstr "এর রোল ভিত্তিক দরদাম"
+
+#: includes/class/admin/class-prolersettings.php:179
+#: includes/class/admin/class-prolersettings.php:191
+msgid "Role Pricing"
+msgstr "রোলের দাম"
+
+#: includes/class/class-prolerplugin.php:342
+#: includes/class/admin/class-prolersettings.php:406
+msgid "Save"
+msgstr "সংরক্ষণ"
+
+#: includes/class/admin/class-prolersettings.php:405
+msgid "Save Settings"
+msgstr "সেটিংস সংরক্ষণ"
+
+#: templates/admin/sidebar.php:44
+msgid "Send Request"
+msgstr "আবেদন করুণ"
+
+#: includes/class/admin/class-prolersettings.php:612
+msgid ""
+"Set the minimum number of products a customer must purchase for a specific "
+"role."
+msgstr "একটি নির্দিষ্ট রোল সর্বনিম্ন কতটি পণ্য কিনতে পারবেন।"
+
+#: includes/class/admin/class-prolerloader.php:124
+#: includes/class/admin/class-prolersettings.php:361
+msgid "Settings"
+msgstr "সেটিংস"
+
+#: includes/class/admin/class-prolersettings.php:274
+msgid "Settings Saved"
+msgstr "সেটিংস সংরক্ষিত"
+
+#: includes/class/admin/class-prolersettings.php:792
+msgid "Settings saved successfully."
+msgstr "সেটিংস সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+#: includes/class/admin/class-prolersettings.php:581
+#: includes/class/admin/class-prolersettings.php:599
+msgid "Show"
+msgstr "দেখান"
+
+#: includes/class/admin/class-prolersettings.php:145
+#, php-format
+msgid "Sorry, cannot add %1$s role, already exists."
+msgstr "দুঃখিত, আপনি %1$s রোল যোগ করতে পারবেন না, এটি তৈরী রয়েছে।"
+
+#: includes/class/admin/class-prolersettings.php:135
+msgid ""
+"Sorry, role name must start with a letter and only include letters, digits, "
+"spaces, and underscores, and be at least 3 characters long."
+msgstr ""
+"দুঃখিত, রোলের নাম অবশ্যই বর্ণ দিয়ে শুরুহয়ে বর্ণ, সংখ্যা, স্পেস ও '_' থাকতে "
+"পারবে এবং অবশ্যই ৩ বর্ণের বেশি হতে হবে।"
+
+#: includes/class/admin/class-prolerloader.php:150
+#: includes/class/admin/class-prolersettings.php:303
+msgid "Support"
+msgstr "সেবা"
+
+#: includes/class/admin/class-prolersettings.php:531
+msgid "The following options are currently deactivated."
+msgstr "এই রোলের সেটিংস বন্ধ রয়েছে।"
+
+#: includes/core-data.php:20
+msgid "Unregistered user"
+msgstr "অনিবন্ধিত গ্রাহক"
+
+#: templates/admin/sidebar.php:5
+msgid "Upgrade to PRO Now"
+msgstr "PRO সেবা চালু করুণ"
+
+#. Author of the plugin
+msgid "WebFix Lab"
+msgstr "ওয়েবফিক্স ল্যাব"
+
+#: includes/class/admin/class-prolerloader.php:311
+msgid "WooCommerce"
+msgstr "উকমার্স"
+
+#: includes/class/admin/class-prolersettings.php:178
+msgid "WooCommerce Role"
+msgstr "উকমার্স রোল"
+
+#: includes/class/admin/class-prolersettings.php:190
+msgid "WooCommerce Role - Settings"
+msgstr "উকমার্স রোল - সেটিংস"
+
+#: includes/class/admin/class-prolerloader.php:340
+msgid "WordPress.org"
+msgstr "ওয়ার্ডপ্রেস"
